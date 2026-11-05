@@ -94,3 +94,4 @@
   .step h3{font-size:1.45rem}
 }
 @media(prefers-reduced-motion:reduce){.check circle,.check path{stroke-dashoffset:0}.spinner{animation-duration:2s!important}}
+   .hp{position:absolute!important;left:-9999px!important;width:1px!important;height:1px!important;opacity:0!important;pointer-events:none!important}

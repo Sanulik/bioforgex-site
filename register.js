@@ -3,7 +3,7 @@
   "use strict";
 
   var ENDPOINT = "https://script.google.com/macros/s/AKfycbzBRIEadHt5HSfoHEN96-vloDTj5aypZhEd8vdy5vNRT77KXP7NJ2dzotiDuligVjYYkQ/exec";
-  var DEADLINE = new Date("2026-11-20T23:59:59+05:30").getTime();
+  var DEADLINE = new Date("2026-11-30T23:59:59+05:30").getTime();
   var MAX_BYTES = 10 * 1024 * 1024;
   var ALLOWED_EXT = ["jpg", "jpeg", "png", "pdf"];
   var ALLOWED_MIME = ["image/jpeg", "image/png", "application/pdf"];
